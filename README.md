@@ -16,3 +16,4 @@ Remarks:
   - This program uses StdDraw.java to graphically represent the data
     - StdDraw.java methods can be found here "https://introcs.cs.princeton.edu/java/15inout/javadoc/StdDraw.html"
   - There is no graphing or statistical libraries used
+  - I feel Question 4a isn't completely finished/correct
