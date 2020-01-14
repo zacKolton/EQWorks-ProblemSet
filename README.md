@@ -15,5 +15,6 @@ Instructions to run:
 Remarks:
   - This program uses StdDraw.java to draw the data
     - StdDraw.java methods can be found here "https://introcs.cs.princeton.edu/java/15inout/javadoc/StdDraw.html"
+    - Disclaimer: I do not own/create StdDraw.java
   - There is no graphing or statistical libraries used
   - I feel Question 4a isn't completely finished/correct
