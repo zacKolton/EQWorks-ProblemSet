@@ -12,6 +12,12 @@ Instructions to run:
     - Along with another file DataSample Cleaned.csv if that is of any use
   - When prompted, paste the file path requested in the consol 
   
+ General Process:
+  - A .cvs file that has a list of requests (including time stamps, locations, and id's) is provided 
+    - The data from this .cvs file is then "cleaned" by getting rid of requests that have identical time stamps and locations 
+    - It is then saved into a linked list and saved into the original file, and we move onto the next problem
+      - For this particular submission, i named the cleaned data .cvs file "DataSample Cleaned.cvs"
+  
 Remarks:
   - This program uses StdDraw.java to draw the data
     - StdDraw.java methods can be found here "https://introcs.cs.princeton.edu/java/15inout/javadoc/StdDraw.html"
