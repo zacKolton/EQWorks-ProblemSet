@@ -28,6 +28,10 @@ Instructions to run:
      - Standard deviation
      - Radius (Maximum request distance)
      - Density (requests/area)
+ - For analysis, we draw a circle around the POI (radius) and then draw each request surrounding it
+    - This result is saved as "Analysis.png"
+ - The last question (4a) is were the data is scaled to a interval of[-10,10] and that is drawn out as well
+    - This result is saved as "Model.png"
      
   
 Remarks:
