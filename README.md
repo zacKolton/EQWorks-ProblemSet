@@ -40,3 +40,4 @@ Remarks:
     - Disclaimer: I do not own/create StdDraw.java
   - There is no graphing or statistical libraries used
   - I feel Question 4a isn't completely finished/correct
+  - Problem set retrieved from: https://gist.github.com/woozyking/f1d50e1fe1b3bf52e3748bc280cf941f
